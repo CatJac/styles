@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="text" initialize="false" names-delimiter="" page-range-format="expanded" initialize-with-hyphen="false" default-locale="fr-FR">
   <info>
-    <title>Style Harvard Ecole de Management de Normandie (FR)</title> 
-    <title-short>EMN-français</title-short>
-    <id>http://www.zotero.org/styles/style-harvard-ecole-de-management-de-normandie</id>
-    <link href="http://www.zotero.org/styles/style-harvard-ecole-de-management-de-normandie" rel="self"/>
+    <title>EM Normandie - Harvard</title> 
+       <id>http://www.zotero.org/styles/style-harvard-em-normandie</id>
+    <link href="http://www.zotero.org/styles/style-harvard-em-normandie" rel="self"/>
     <author>
       <name>J.-O. Catois</name>
       <email>jcatois@em-normandie.fr</email>
@@ -15,7 +14,7 @@
     <updated>2024-06-10T12:08:49+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="en">
+  <locale xml:lang="multilingual">
     <terms>
       <term name="editortranslator" form="short">
         <single>ed. &amp; trans.</single>
